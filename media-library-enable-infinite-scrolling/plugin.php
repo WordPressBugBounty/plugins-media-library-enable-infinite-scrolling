@@ -11,7 +11,7 @@
  * Plugin Name: Media Library Enable Infinite Scrolling
  * Author: David Baumwald
  * Description: A small plugin to re-enable infinite scrolling in the Media Library after WordPress 5.8.
- * Version: 0.1.0
+ * Version: 0.1.1
  * Network: true
  * License: MIT
  * Text Domain: media-library-enable-infinite-scrolling
@@ -27,7 +27,7 @@
  defined( 'ABSPATH' ) || die( 'We\'re sorry, but you can not directly access this file.' );
 
  // Define the current plugin version.
- define( 'DE_MEDIA_LIBRARY_ENABLE_INFINITE_SCROLLING_VERSION', '0.1.0' );
+ define( 'DE_MEDIA_LIBRARY_ENABLE_INFINITE_SCROLLING_VERSION', '0.1.1' );
 
 /**
  * Class Media_Library_Enable_Infinite_Scrolling.

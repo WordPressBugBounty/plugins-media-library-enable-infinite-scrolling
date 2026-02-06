@@ -4,8 +4,9 @@
 * Contributors: davidbaumwald
 * Tags: media, library, infinite, scroll
 * License: MIT
-* Requires PHP: 7.4
-* Tested up to: 6.5
+* Requires PHP: 7.0
+* Tested up to: 6.9.1
+* Stable tag: 0.1.1
 
 A small plugin to re-enable infinite scrolling in the Media Library after WordPress 5.8 is released.
 
